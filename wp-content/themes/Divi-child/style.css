@@ -1,0 +1,15 @@
+/*
+ Theme Name:   Divi Child
+ Theme URI:    
+ Description:  Divi Child Theme
+ Author:       Marie-Hélène Lebée
+ Author URI:   http://mhlebee.com
+ Template:     Divi
+ Version:      1.0.0
+ Text Domain:  Divi-child
+*/
+
+/* Removes "designed by elegants themes etc */
+#footer-info {
+	display:none;
+}
